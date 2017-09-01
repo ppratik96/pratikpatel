@@ -548,16 +548,16 @@ a {
   outline: 0; }
 
 a:hover, a:focus {
-  color: #587287; }
+  color: white; }
 
 ::-moz-selection {
-  color: #587287; }
+  color: white; }
 
 ::selection {
-  color: #587287; }
+  color: white; }
 
 ::-moz-selection {
-  color: #587287; }
+  color: white; }
 
 img::-moz-selection {
   background: transparent; }
@@ -1182,8 +1182,8 @@ form {
     text-transform: uppercase;
     width: 33%; }
     form [type="submit"]:hover {
-      background: #587287;
-      border-color: #587287; }
+      color: white;
+      border-color: white; }
   form textarea {
     height: 10em; }
   form .contact-info-group label {
