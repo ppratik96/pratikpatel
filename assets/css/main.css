@@ -622,7 +622,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     background-color: #303e49;
     border-radius: 30px; } }
 
-@media only screen and (min-width: 220px) {
+# @media only screen and (min-width: 220px) {
   .arrow {
     display: none; }
   .logo {
