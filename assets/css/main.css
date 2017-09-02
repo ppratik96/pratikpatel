@@ -698,7 +698,7 @@ footer {
       display: -ms-flexbox;
       display: flex;
       margin: auto;
-      border-radius: 60%;
+      border-radius: 0%;
       background: url(../img/face.jpg) no-repeat; }
     .about-lock .face1-img {
       height: 180px;
